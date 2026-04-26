@@ -19,4 +19,4 @@ FluxGeo is a professional 2D geometry environment focused on:
 
 ## Web Version
 
-https://euclidegeoart.github.io/Euclidean-Geometry-Cpp/app.html
+https://fluxgeo.org/app.html
